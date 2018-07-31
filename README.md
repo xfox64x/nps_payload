@@ -1,11 +1,12 @@
-This script will generate payloads for basic intrusion detection avoidance.
-It utilizes publicly demonstrated techniques from several different sources.
+This is a heavily modified version of nps_payload, primarily done to make the script platform and Python version independent (>=Python 2.7) and eliminate external dependencies (i.e. pexpect). 
 
-Written by Larry Spohn (@Spoonman1091)
-Payload written by Ben Mauch (@Ben0xA) aka dirty_ben
+
+Modifications by Forrest.
+Originally written by Larry Spohn (@Spoonman1091)
+With payloads written by Ben Mauch (@Ben0xA) aka dirty_ben
 -------------------------------------------------------------------------------------------
 
-Credits:
+Origianl Credits:
 
 https://github.com/Ben0xA/nps
 @Ben0xA
@@ -23,6 +24,9 @@ https://www.sans.org/reading-room/whitepapers/malicious/sleeping-sandbox-35797
 Hassan.morad@gmail.com
 
 -------------------------------------------------------------------------------------------
+v1.04
+  Did too many things.
+
 v1.03
   Cleaned up the output of the payload creation to make it easier to read and copy & paste.
 
@@ -39,8 +43,7 @@ v1.0
 
 Requirements:
 
-`pip install -r requirements.txt`
-
+>= Python 2.7
 -------------------------------------------------------------------------------------------
 
 Setting up samba shares:
