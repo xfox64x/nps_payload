@@ -4,8 +4,8 @@ This is a heavily modified version of nps_payload, primarily done to make the sc
 
 
 Modifications by Forrest.
-Originally written by Larry Spohn (@Spoonman1091)
-With payloads written by Ben Mauch (@Ben0xA) aka dirty_ben
+Originally written by Larry Spohn (@Spoonman1091).
+With payloads written by Ben Mauch (@Ben0xA) aka dirty_ben.
 
 -------------------------------------------------------------------------------------------
 
