@@ -1,4 +1,4 @@
-This is a heavily modified version of nps_payload, primarily done to make the script platform and Python version independent (>=Python 2.7) and eliminate external dependencies (i.e. pexpect). 
+This is a heavily modified version of nps_payload, primarily done to make the script platform and version independent (>=Python 2.7) and to eliminate external dependencies (i.e. pexpect and netifaces).
 
 
 Modifications by Forrest.
@@ -25,25 +25,16 @@ Hassan.morad@gmail.com
 
 -------------------------------------------------------------------------------------------
 v1.04
-  Did too many things.
+  Eliminated dependencies, platform specific operations, and specific Python requirements. Reworked output formatting, colors, file management, msfv payload generation, error handling, and a few Pythonic things.
 
 v1.03
-  Cleaned up the output of the payload creation to make it easier to read and copy & paste.
-
-v1.02
-  Fixed logic in creation of a new msbuild.rc resource script
-
-v1.01
-  Added "Custom PS1 Payload" option.
-
-v1.0
-  Initial Release
-
+  Forked over version 1.03 on 2018-07-31.
+  
 -------------------------------------------------------------------------------------------
 
 Requirements:
 
->= Python 2.7
+Python 2.7 or greater.
 -------------------------------------------------------------------------------------------
 
 Setting up samba shares:
