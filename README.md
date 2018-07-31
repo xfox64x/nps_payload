@@ -1,3 +1,5 @@
+Description:
+-------------------------------------------------------------------------------------------
 This is a heavily modified version of nps_payload, primarily done to make the script platform and version independent (>=Python 2.7) and to eliminate external dependencies (i.e. pexpect and netifaces).
 
 
