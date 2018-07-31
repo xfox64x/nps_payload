@@ -4,10 +4,11 @@ This is a heavily modified version of nps_payload, primarily done to make the sc
 Modifications by Forrest.
 Originally written by Larry Spohn (@Spoonman1091)
 With payloads written by Ben Mauch (@Ben0xA) aka dirty_ben
+
 -------------------------------------------------------------------------------------------
 
 Origianl Credits:
-
+-------------------------------------------------------------------------------------------
 https://github.com/Ben0xA/nps
 @Ben0xA
 
@@ -31,14 +32,15 @@ v1.03
   Forked over version 1.03 on 2018-07-31.
   
 -------------------------------------------------------------------------------------------
-
 Requirements:
+-------------------------------------------------------------------------------------------
 
 Python 2.7 or greater.
+
 -------------------------------------------------------------------------------------------
 
 Setting up samba shares:
-
+-------------------------------------------------------------------------------------------
 1. `apt-get install samba`
 2. `vi/nano/whatever /etc/samba/smb.conf`
 3. add the following to the bottom of the file (change as appropriate)
