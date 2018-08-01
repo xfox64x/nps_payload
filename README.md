@@ -81,3 +81,6 @@ Original "Setting up samba shares" directions
 
 TODO:
 -------------------------------------------------------------------------------------------
+1. Support more payload types.
+2. Add more error handling to a better menu system.
+3. Add ability to modify sleep time and number of payload executions (e.g. callback 5 times, waiting 30 seconds between attempts).
