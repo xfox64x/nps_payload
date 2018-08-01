@@ -4,10 +4,11 @@ This is a heavily modified version of nps_payload, primarily done to make the sc
 
 
 Modifications by Forrest.
+
 Originally written by Larry Spohn (@Spoonman1091).
+
 With payloads written by Ben Mauch (@Ben0xA) aka dirty_ben.
 
--------------------------------------------------------------------------------------------
 
 Origianl Credits:
 -------------------------------------------------------------------------------------------
@@ -26,22 +27,22 @@ Sleeping Your Way out of the Sandbox
 https://www.sans.org/reading-room/whitepapers/malicious/sleeping-sandbox-35797
 Hassan.morad@gmail.com
 
+
+Versioning:
 -------------------------------------------------------------------------------------------
 v1.04
   Eliminated dependencies, platform specific operations, and specific Python requirements. Reworked output formatting, colors, file management, msfv payload generation, error handling, and a few Pythonic things.
 
 v1.03
   Forked over version 1.03 on 2018-07-31.
-  
--------------------------------------------------------------------------------------------
+
+
 Requirements:
 -------------------------------------------------------------------------------------------
-
 Python 2.7 or greater.
 
--------------------------------------------------------------------------------------------
 
-Setting up samba shares:
+Original "Setting up samba shares" directions:
 -------------------------------------------------------------------------------------------
 1. `apt-get install samba`
 2. `vi/nano/whatever /etc/samba/smb.conf`
