@@ -1,4 +1,4 @@
-Copyright 2017, NPS_Payload by TrustedSec, LLC
+"Copyright 2017, NPS_Payload by TrustedSec, LLC
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
@@ -12,16 +12,14 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
 OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The above licensing was taken from the BSD licensing and is applied to NPS_Payload as well.
 
-Note that the NPS_Payload is provided as is, and is a royalty free open-source application.
+Note that the NPS_Payload is provided as is, and is a royalty free open-source application."
 
 Feel free to modify, use, change, market, do whatever you want with it as long as you give the appropriate credit where credit
-is due (which means giving the authors the credit they deserve for writing it). Also note that by using this software, if you ever
-see the creator of NPS_Payload in a bar, you should give him a hug and buy him a beer. Hug must last at least 5 seconds. Author
-holds the right to refuse the hug or the beer.
+is due (which means giving the authors the credit they deserve for writing it). Also note that, by using this software, if you ever
+see the creator of NPS_Payload in a bar, you should buy them a beer. No hugs, as this is 2018. Author holds the right to refuse the beer.
 
+At this point, I think I've made enough changes to where this is no longer the property of TrustedSec, LLC (and it probably never really was given the dependence on numerous others' work and open-source content), but I'll leave this here anyways. To be clear, I'm not claiming any sort of ownership over the ideas presented, just owning the changes I've made. I'll buy you that beer.
